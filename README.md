@@ -8,7 +8,7 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LZHMS)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=LZHMS.visitor-badge&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=LZHMS.LZHMS&left_color=green&right_color=red)
 
 <!--
 **LZHMS/LZHMS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
