@@ -10,4 +10,4 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=LZHMS.LZHMS)
 
-https://stats.justsong.cn/api/csdn?id=weixin_63554791&theme=cobalt
+![CSDN](https://stats.justsong.cn/api/csdn?id=weixin_63554791&theme=cobalt)
