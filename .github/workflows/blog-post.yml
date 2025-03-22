@@ -17,3 +17,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://zhihaoli.top/atom.xml"
+          template: $newline | [$randomEmoji $title]($url) | $categories | $date
