@@ -14,8 +14,8 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
- | [$randomEmoji National Scholarship in 2024](https://lzhms.github.io/awards/NationalScholarship/) |  | Tue Mar 18 2025 3:55 AM
- | [$randomEmoji TransGPTex: LaTex 编译版的论文翻译工具](https://lzhms.github.io/blog/TransGPTex/) |  | Mon Mar 17 2025 5:20 AM
- | [$randomEmoji 线性代数](https://lzhms.github.io/collaboration/LinearAlgebra/) |  | Sun Mar 09 2025 8:50 AM
- | [$randomEmoji Hexo博客Icarus主题不蒜子 UV、PV 统计数据初始化配置](https://lzhms.github.io/blog/BusuanziInit/) |  | Fri Mar 07 2025 11:29 AM
- | [$randomEmoji 在鹏城国家实验室的这段时光](https://lzhms.github.io/essay/DaysAtPCNL/) |  | Mon Mar 03 2025 2:37 PM<!-- BLOG-POST-LIST:END -->
+ - 👨‍💻 <a href='https://lzhms.github.io/awards/NationalScholarship/'>National Scholarship in 2024</a> | 🏷️ **Categories:**  | 📅 **Data**: Tue Mar 18 2025 3:55 AM
+ - 🔥 <a href='https://lzhms.github.io/blog/TransGPTex/'>TransGPTex: LaTex 编译版的论文翻译工具</a> | 🏷️ **Categories:**  | 📅 **Data**: Mon Mar 17 2025 5:20 AM
+ - 🚀 <a href='https://lzhms.github.io/collaboration/LinearAlgebra/'>线性代数</a> | 🏷️ **Categories:**  | 📅 **Data**: Sun Mar 09 2025 8:50 AM
+ - 👨‍💻 <a href='https://lzhms.github.io/blog/BusuanziInit/'>Hexo博客Icarus主题不蒜子 UV、PV 统计数据初始化配置</a> | 🏷️ **Categories:**  | 📅 **Data**: Fri Mar 07 2025 11:29 AM
+ - 🚀 <a href='https://lzhms.github.io/essay/DaysAtPCNL/'>在鹏城国家实验室的这段时光</a> | 🏷️ **Categories:**  | 📅 **Data**: Mon Mar 03 2025 2:37 PM<!-- BLOG-POST-LIST:END -->
