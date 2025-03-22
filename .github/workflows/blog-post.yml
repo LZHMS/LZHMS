@@ -18,4 +18,4 @@ jobs:
         with:
           feed_list: "https://zhihaoli.top/atom.xml"
           date_format: "dd/mm/yyyy"
-          template: "$newline - $randomEmoji(🔥,🚀,👨‍💻,🌮,💫) <a href='$url'>$title</a> | 📅 **Data**: $date
+          template: "$newline - $randomEmoji(🔥,🚀,👨‍💻,🌮,💫) <a href='$url'>$title</a> | 📅 **Data**: $date"
