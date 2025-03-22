@@ -17,6 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://zhihaoli.top/atom.xml"
-          categories_template: <code>$category</code>
+          custom_tags: "tags/category/"
           date_format: "dd/mm/yyyy"
-          template: "$newline - $randomEmoji(🔥,🚀,👨‍💻,🌮,💫) <a href='$url'>$title</a> | 🏷️ **Tags:** $categories | 📅 **Data**: $date"
+          template: "$newline - $randomEmoji(🔥,🚀,👨‍💻,🌮,💫) <a href='$url'>$title</a> | 🏷️ **Tags:** $tags | 📅 **Data**: $date"
