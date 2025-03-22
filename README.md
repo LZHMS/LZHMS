@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://zhihaoli.top/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=735&lines=print(%22AI%20%2B%20Python%20%3D%20%F0%9F%9A%80%22)%3B%0A;%E2%9C%A8%20Code%20with%20joy%2C%20shine%20with%20purpose!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=635&lines=print(%22AI%20%2B%20Python%20%3D%20%F0%9F%9A%80%22)%3B%0A;%E2%9C%A8%20Code%20with%20joy%2C%20shine%20with%20purpose!&center=true&size=27" />
     </a>
   </div>
 
