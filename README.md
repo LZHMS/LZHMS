@@ -3,15 +3,12 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
     <a href="https://zhihaoli.top/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=print(%22AI%20%2B%20Python%20%3D%20%F0%9F%9A%80%22)%3B%0A;%E2%9C%A8%20Code%20with%20joy%2C%20shine%20with%20purpose!&center=true&size=27" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=635&lines=print(%22AI%20%2B%20Python%20%3D%20%F0%9F%9A%80%22)%3B%0A;%E2%9C%A8%20Code%20with%20joy%2C%20shine%20with%20purpose!&center=true&size=27" />
     </a>
   </div>
 
-  <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://lzhms.oss-cn-hangzhou.aliyuncs.com/images/blog/profile/github_profile.webp" height="225px" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
