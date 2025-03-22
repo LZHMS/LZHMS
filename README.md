@@ -29,12 +29,6 @@
 
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LZHMS)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LZHMS)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=LZHMS)
-
 <div align="center">
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
@@ -52,8 +46,13 @@
 <div><img src="https://github-profile-trophy.vercel.app/?username=LZHMS&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
 <!-- GitHub 数据统计 -->
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LZHMS&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LZHMS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
+<div align="center">
+  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LZHMS&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  
+  <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LZHMS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  
+  <img height="137px" src="https://stats.justsong.cn/api/csdn?id=weixin_63554791&theme=cobalt" />
+</div>
 
 <!-- Wakatime Graph-->
 <table>
@@ -65,7 +64,7 @@
 
 </div>
 
-![CSDN](https://stats.justsong.cn/api/csdn?id=weixin_63554791&theme=cobalt)
+
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
