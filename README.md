@@ -8,8 +8,8 @@
   </div>
 
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://lzhms.oss-cn-hangzhou.aliyuncs.com/images/blog/profile/github_profile.webp" />
-    <img src="https://lzhms.oss-cn-hangzhou.aliyuncs.com/images/blog/profile/github_profile.webp" alt="Profile Image" height="225px" />
+    <source media="(prefers-color-scheme: light)" srcset="https://lzhms.oss-cn-hangzhou.aliyuncs.com/images/blog/profile/github_Profile.webp" />
+    <img src="https://lzhms.oss-cn-hangzhou.aliyuncs.com/images/blog/profile/github_Profile.webp" alt="Profile Image" height="225px" />
   </picture>
 
   <!-- for beauty 留个空行好看点 -->
