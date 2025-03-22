@@ -1,3 +1,36 @@
+<div align="center">
+
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://zhihaoli.top/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);✨ Code with joy, shine with purpose! 🚀&center=true&size=27" />
+    </a>
+  </div>
+
+  <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+
+  <!-- profile logo 个人资料徽标 -->
+  <div>
+    <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-Blog-8c36db" /></a>&emsp;
+    <a href="https://blog.csdn.net/weixin_63554791"><img src="https://img.shields.io/badge/CSDN-博客-FF5500" /></a>&emsp;
+    <!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=LZHMS&label=Views&style=flat" alt="Visitors" />&emsp;
+    <!-- wakatime -->    
+    <a href="https://wakatime.com/@ZHao"><img src="https://wakatime.com/badge/user/484c6ee4-0054-466f-bcb8-aa38fc11c42c.svg" /></a>
+
+  </div>
+
+</div>
+
+
 ## Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LZHMS)
