@@ -25,9 +25,7 @@
     <a href="https://wakatime.com/@ZHao"><img src="https://wakatime.com/badge/user/484c6ee4-0054-466f-bcb8-aa38fc11c42c.svg" /></a>
 
   </div>
-
 </div>
-
 
 ## Hi there 👋
 
@@ -37,9 +35,35 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=LZHMS)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LZHMS)
+<div align="center">
+<!-- GitHub Activity Graph GitHub 活动图 -->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LZHMS&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=LZHMS&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=LZHMS&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=LZHMS.LZHMS)
+<!-- GitHub 奖杯🏆 -->
+<div><img src="https://github-profile-trophy.vercel.app/?username=LZHMS&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
+
+<!-- GitHub 数据统计 -->
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LZHMS&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LZHMS&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
+
+<!-- Wakatime Graph-->
+<table>
+  <tr>
+    <td><img src="https://wakatime.com/share/@ZHao/7af26773-7af0-47e6-a82d-1e23c690053d.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@ZHao/8b9dd608-3ca0-4e21-aba9-8093dada4f2b.svg" width="500" alt="Wakatime"/></td>
+  </tr>
+</table>
+
+</div>
 
 ![CSDN](https://stats.justsong.cn/api/csdn?id=weixin_63554791&theme=cobalt)
 
