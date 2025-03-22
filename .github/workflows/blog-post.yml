@@ -18,6 +18,6 @@ jobs:
         with:
           feed_list: "https://zhihaoli.top/atom.xml"
           enable_keepalive: true
-          custom_tags: "tag/category/,autor/author/"
+          custom_tags: "autor/author/"
           date_format: "dd/mm/yyyy"
-          template: "$newline - $randomEmoji(🔥,🚀,👨‍💻,🌮,💫) <a href='$url'>$title</a> | 🏷️ **Tags:** $tag | 📅 **Data**: $date | ✍️ **Autor**: $autor"
+          template: "$newline - $randomEmoji(🔥,🚀,👨‍💻,🌮,💫) <a href='$url'>$title</a> | 📅 **Data**: $date | ✍️ **Autor**: $autor"
