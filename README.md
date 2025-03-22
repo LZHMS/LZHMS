@@ -14,4 +14,9 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [National Scholarship in 2024](https://lzhms.github.io/awards/NationalScholarship/)
+- [TransGPTex: LaTex 编译版的论文翻译工具](https://lzhms.github.io/blog/TransGPTex/)
+- [线性代数](https://lzhms.github.io/collaboration/LinearAlgebra/)
+- [Hexo博客Icarus主题不蒜子 UV、PV 统计数据初始化配置](https://lzhms.github.io/blog/BusuanziInit/)
+- [在鹏城国家实验室的这段时光](https://lzhms.github.io/essay/DaysAtPCNL/)
 <!-- BLOG-POST-LIST:END -->
