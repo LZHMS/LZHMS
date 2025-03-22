@@ -80,31 +80,23 @@
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat" />
-    <img src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat" />
-    <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" />
+    <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=matlab&logoColor=fff&style=flat" />
+    <img src="https://img.shields.io/badge/Assembly-666666?logo=assemblyscript&logoColor=fff&style=flat" />
+    <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=fff&style=flat" />
+    <img src="https://img.shields.io/badge/VHDL-4B0082?logo=vhdl&logoColor=fff&style=flat" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat" />
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat" />
-    <img src="https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat" />
-    <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat" />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" />
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat" />
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" />
-  </p>
-
-  <!-- svg -->
-  <p>
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="margin-right: 20px;" />
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="margin-right: 20px;" />
-  </p>
-
-  <!-- gif -->
-  <p>
-    <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp" style="margin-right: 10px;" />
-    <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp" style="margin-right: 10px;" />
-    <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Zotero-CC1100?logo=zotero&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/TeX%20Live-008080?logo=tex&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=flat" />
   </p>
 
 </div>
