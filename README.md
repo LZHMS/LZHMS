@@ -67,7 +67,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
- - 💫 <a href='https://lzhms.github.io/readings/RAD-NeRF/'>RAD-NeRF | 2022</a> | 📅 **Data**: 26/03/2025
+ - 💫 <a href='https://lzhms.github.io/readings/RAD-NeRF/'>RAD-NeRF | 2022 | Paper Reading</a> | 📅 **Data**: 26/03/2025
  - 🔥 <a href='https://lzhms.github.io/awards/NationalScholarship/'>National Scholarship in 2024</a> | 📅 **Data**: 18/03/2025
  - 🌮 <a href='https://lzhms.github.io/blog/TransGPTex/'>TransGPTex: LaTex 编译版的论文翻译工具</a> | 📅 **Data**: 17/03/2025
  - 🌮 <a href='https://lzhms.github.io/collaboration/LinearAlgebra/'>线性代数</a> | 📅 **Data**: 09/03/2025
