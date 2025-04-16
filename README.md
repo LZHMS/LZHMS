@@ -57,7 +57,7 @@
 <table>
   <tr>
     <td><img src="https://wakatime.com/share/@ZHao/7af26773-7af0-47e6-a82d-1e23c690053d.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@ZHao/8b9dd608-3ca0-4e21-aba9-8093dada4f2b.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@ZHao/28d4e27c-cae5-4368-be7f-17b88ef547a2.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
 
