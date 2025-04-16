@@ -56,7 +56,7 @@
 <!-- Wakatime Graph-->
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@ZHao/7af26773-7af0-47e6-a82d-1e23c690053d.svg" width="500" alt="Wakatime"/></td>
+    <td><img src="https://wakatime.com/share/@ZHao/26b44755-e7be-4053-912c-92200766136b.svg" width="500" alt="Wakatime"/></td>
     <td><img src="https://wakatime.com/share/@ZHao/28d4e27c-cae5-4368-be7f-17b88ef547a2.svg" width="500" alt="Wakatime"/></td>
   </tr>
 </table>
