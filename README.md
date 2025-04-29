@@ -67,11 +67,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
- - 💫 <a href='https://lzhms.github.io/blog/CoordinateTransformation/'>基变换与坐标变换在图形学中的应用</a> | 📅 **Data**: 09/04/2025
- - 🔥 <a href='https://lzhms.github.io/essay/WindowOfWorld/'>深圳世界之窗游记之绝佳体验感</a> | 📅 **Data**: 06/04/2025
+ - 💫 <a href='https://lzhms.github.io/projects/SRRS/'>Screening, Rectifying, and Re-Screening: A Unified Framework for Tuning Vision-Language Models with Noisy Labels</a> | 📅 **Data**: 29/04/2025
+ - 🔥 <a href='https://lzhms.github.io/blog/CoordinateTransformation/'>基变换与坐标变换在图形学中的应用</a> | 📅 **Data**: 09/04/2025
+ - 🌮 <a href='https://lzhms.github.io/essay/WindowOfWorld/'>深圳世界之窗游记之绝佳体验感</a> | 📅 **Data**: 06/04/2025
  - 🌮 <a href='https://lzhms.github.io/essay/LookBack/'>蓦然回首 | 藤野 | 京本 | 藤野京</a> | 📅 **Data**: 04/04/2025
- - 🌮 <a href='https://lzhms.github.io/readings/Instant-NGP/'>Instant-NGP | SIGGRAPH 2022 | Paper Reading</a> | 📅 **Data**: 28/03/2025
- - 🚀 <a href='https://lzhms.github.io/readings/RAD-NeRF/'>RAD-NeRF | 2022 | Paper Reading</a> | 📅 **Data**: 26/03/2025<!-- BLOG-POST-LIST:END -->
+ - 🚀 <a href='https://lzhms.github.io/readings/Instant-NGP/'>Instant-NGP | SIGGRAPH 2022 | Paper Reading</a> | 📅 **Data**: 28/03/2025<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
