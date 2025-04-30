@@ -16,6 +16,6 @@ jobs:
       - name: Pull in blog's posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://zhihaoli.top/atom.xml"
+          feed_list: "https://lzhms.github.io/atom.xml"
           date_format: "dd/mm/yyyy"
           template: "$newline - $randomEmoji(🔥,🚀,👨‍💻,🌮,💫) <a href='$url'>$title</a> | 📅 **Data**: $date"
