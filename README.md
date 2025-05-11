@@ -66,6 +66,7 @@
 
 
 📕 &nbsp;**Latest Blog Posts**
+ - 🚀 <a href='https://lzhms.github.io/projects/SRRS/'>Screening, Rectifying, and Re-Screening: A Unified Framework for Tuning Vision-Language Models with Noisy Labels</a> | 📅 **Data**: 29/04/2025
 <!-- BLOG-POST-LIST:START -->
  - 💫 <a href='https://lzhms.github.io/essay/2025LabourVacation/'>劳动节 | 深圳湾 | 莲花山</a> | 📅 **Data**: 05/05/2025
  - 🔥 <a href='https://lzhms.github.io/projects/SRRSExploration/'>SRRS 研究方法的探索历程</a> | 📅 **Data**: 30/04/2025
