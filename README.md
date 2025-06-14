@@ -68,11 +68,11 @@
 📕 &nbsp;**Latest Blog Posts**
  - 🚀 <a href='https://lzhms.github.io/projects/SRRS/'>Screening, Rectifying, and Re-Screening: A Unified Framework for Tuning Vision-Language Models with Noisy Labels</a> | 📅 **Data**: 29/04/2025
 <!-- BLOG-POST-LIST:START -->
- - 💫 <a href='https://lzhms.github.io/collaboration/CoursesSummary/'>计算机科学与技术——大学四年课程笔记汇总（预览）</a> | 📅 **Data**: 14/06/2025
- - 🔥 <a href='https://lzhms.github.io/essay/CollegeExperience/'>跳蚤市场摆摊之西电的最后一课</a> | 📅 **Data**: 08/06/2025
+ - 💫 <a href='https://lzhms.github.io/essay/MyCollegeMemoirs/'>大学四年回忆录——记我在西安电子科技大学的成长历程</a> | 📅 **Data**: 14/06/2025
+ - 🔥 <a href='https://lzhms.github.io/collaboration/CoursesSummary/'>计算机科学与技术——大学四年课程笔记汇总（预览）</a> | 📅 **Data**: 14/06/2025
+ - 🌮 <a href='https://lzhms.github.io/essay/CollegeExperience/'>跳蚤市场摆摊之西电的最后一课</a> | 📅 **Data**: 08/06/2025
  - 🌮 <a href='https://lzhms.github.io/essay/HuaShanTour/'>小小华山，轻松拿下 | 心诚则志坚，终问顶华山之巅</a> | 📅 **Data**: 05/06/2025
- - 🌮 <a href='https://lzhms.github.io/awards/OutstandingStudent2024/'>Outstanding Student Model Award of Xidian University</a> | 📅 **Data**: 28/05/2025
- - 🚀 <a href='https://lzhms.github.io/essay/2025LabourVacation/'>劳动节 | 深圳湾 | 莲花山</a> | 📅 **Data**: 05/05/2025<!-- BLOG-POST-LIST:END -->
+ - 🚀 <a href='https://lzhms.github.io/awards/OutstandingStudent2024/'>Outstanding Student Model Award of Xidian University</a> | 📅 **Data**: 28/05/2025<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
