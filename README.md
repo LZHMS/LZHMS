@@ -68,7 +68,7 @@
 📕 &nbsp;**Latest Blog Posts**
  - 🚀 <a href='https://lzhms.github.io/projects/SRRS/'>Screening, Rectifying, and Re-Screening: A Unified Framework for Tuning Vision-Language Models with Noisy Labels</a> | 📅 **Data**: 29/04/2025
 <!-- BLOG-POST-LIST:START -->
- - 💫 <a href='https://lzhms.github.io/projects/SummaryTemplate/'>Boxed Sheet &amp; One-sentence Log &amp; Presentation Slides</a> | 📅 **Data**: 19/06/2025
+ - 💫 <a href='https://lzhms.github.io/projects/SummaryTemplate/'>Boxed Sheet &amp; One-sentence Log &amp; Concise Slides</a> | 📅 **Data**: 19/06/2025
  - 🔥 <a href='https://lzhms.github.io/awards/CourseNotesAward/'>毕业生笔记收藏证书 | 纪念意义非凡</a> | 📅 **Data**: 16/06/2025
  - 🌮 <a href='https://lzhms.github.io/essay/MyCollegeMemoirs/'>大学四年回忆录 | 感恩未言之情、离别未尽之意全在笔墨之间</a> | 📅 **Data**: 14/06/2025
  - 🌮 <a href='https://lzhms.github.io/collaboration/CoursesSummary/'>计算机科学与技术——大学四年课程笔记汇总 | 2025届毕业生笔记征集计划获奖</a> | 📅 **Data**: 14/06/2025
