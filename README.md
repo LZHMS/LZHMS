@@ -68,7 +68,7 @@
 📕 &nbsp;**Latest Blog Posts**
  - 🚀 <a href='https://lzhms.github.io/projects/SRRS/'>Screening, Rectifying, and Re-Screening: A Unified Framework for Tuning Vision-Language Models with Noisy Labels</a> | 📅 **Data**: 29/04/2025
 <!-- BLOG-POST-LIST:START -->
- - 💫 <a href='https://lzhms.github.io/readings/MultiModalModels/ContrastiveLearning/CLIP/'>Review CLIP for Understanding Contrastive Learning</a> | 📅 **Data**: 09/07/2025
+ - 💫 <a href='https://lzhms.github.io/readings/CLIP/'>Review CLIP for Understanding Contrastive Learning</a> | 📅 **Data**: 09/07/2025
  - 🔥 <a href='https://lzhms.github.io/awards/NexTrip/'>NexTrip: The Red Journey from Xidian to Peking University</a> | 📅 **Data**: 04/07/2025
  - 🌮 <a href='https://lzhms.github.io/projects/SummaryTemplate/'>Boxed Sheet &amp; One-sentence Log &amp; Concise Slides</a> | 📅 **Data**: 19/06/2025
  - 🌮 <a href='https://lzhms.github.io/awards/CourseNotesAward/'>毕业生笔记收藏证书 | 纪念意义非凡</a> | 📅 **Data**: 16/06/2025
